@@ -10,7 +10,7 @@
     "codAct":8,
     "codProf":800,
     "codNivest":5,
-    "codPaisOri":@@codPaisRestOri->codigo,
+    "codPaisOri":@@codPaisRestNac->codigo,
     "codPaisNac":@@codPaisRestNac->codigo,
     "codDocId":1,
     "codPais":@@codPaisRest->codigo,
