@@ -12,7 +12,7 @@
     "codNivest":@@nivel_educacional,
     "codPaisOri":@@codPaisRestNac->codigo,
     "codPaisNac":@@codPaisRestNac->codigo,
-    "codDocId":1,
+    "codDocId":@@codDocId273,
     "codPais":@@codPaisRest->codigo,
     "numDocId":"@@docid_numero",
     "fecVen":"31/05/2025",
