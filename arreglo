@@ -1,8 +1,8 @@
 {
-    "nombres":"@@nombres_mayuscula",
-    "apellidoUno":"@@apellido_uno_mayus",
-    "apellidoDos":"@@apellido_dos_mayus",
-    "runExt":"@@run_ext",
+    "nombres":"@@nombres_may_sin",
+    "apellidoUno":"@@apellido_patmay_sin",
+    "apellidoDos":"@@apellido_matmay_sin",
+    "runExt":"@@rut_ext_b",
     "fecNac":"@@nacimiento_fecha",
     "sexo":"@@sex_mf",
     "estCivil":"@@estado_civil",
