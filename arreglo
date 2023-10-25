@@ -6,7 +6,7 @@
     "fecNac":"@@nacimiento_fecha",
     "sexo":"@@sex_mf",
     "estCivil":"S",
-    "vinculo":"N",
+    "vinculo":"@@vinculoPWS",
     "codAct":"@@actividad->valor",
     "codProf":"@@ocupacion->valor",
     "codNivest":"@@nivel_educacional",
