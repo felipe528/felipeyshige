@@ -5,7 +5,7 @@
     "runExt":"@@run_ext",
     "fecNac":"@@nacimiento_fecha",
     "sexo":"@@sex_mf",
-    "estCivil":"S",
+    "estCivil":"@@estado_civil",
     "vinculo":"@@vinculoPWS",
     "codAct":"@@actividad->valor",
     "codProf":"@@ocupacion->valor",
