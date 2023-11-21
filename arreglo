@@ -4,7 +4,7 @@
     "apellidoDos":"@@apellido_matmay_sin",
     "runExt":"@@rut_ext_b",
     "fecNac":"@@nacimiento_fecha_pms",
-    "sexo":"@@sex_mf",
+    "sexo":"@@sexo_pms",
     "estCivil":"@@estado_civil",
     "vinculo":"@@vinculoPWS",
     "codAct":"@@actividad->valor",
