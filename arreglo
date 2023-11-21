@@ -3,7 +3,7 @@
     "apellidoUno":"@@apellido_patmay_sin",
     "apellidoDos":"@@apellido_matmay_sin",
     "runExt":"@@rut_ext_b",
-    "fecNac":"@@nacimiento_fecha",
+    "fecNac":"@@nacimiento_fecha_pms",
     "sexo":"@@sex_mf",
     "estCivil":"@@estado_civil",
     "vinculo":"@@vinculoPWS",
