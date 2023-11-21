@@ -7,7 +7,7 @@
     "sexo":"@@sexo_pms",
     "estCivil":"@@estado_civil",
     "vinculo":"@@vinculoPWS",
-    "codAct":"@@actividad->valor",
+    "codAct":"@@actividad",
     "codProf":"@@ocupacion->valor",
     "codNivest":"@@nivel_educacional",
     "codPaisOri":"@@codPaisRestNac->codigo",
