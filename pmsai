@@ -1,0 +1,15 @@
+{
+"codExt":@@cod_ext_pms,
+"codDoc":95,
+"fecDoc": @@fecha_acoge,
+"codAuto":100,
+"codMat":@@cod_mat_ana,
+"codAutoDes":100,
+"titDep":@@dep_tit_pms,
+"obs":"",
+"plazo":"",
+"uniPlazo":"",
+"codBen":8,
+"fecCorreo":@@fecha_acoge,
+"idSimple": @!tramite_id
+}
